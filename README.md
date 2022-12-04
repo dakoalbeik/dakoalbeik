@@ -9,6 +9,11 @@ Senior student at the UA Little Rock majoring in computer science.
 * 4.00 Student
 * Minor in mathematics
 * Graduates in December of 2023
+## Experience
+* Software Developer Intern
+  * Emerging Analytics Center
+  * Part-time position
+  * Used Electron, React, Redux, Styled Components, and Express 
 
 <!---
 dakoalbeik/dakoalbeik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

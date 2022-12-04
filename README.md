@@ -1,12 +1,9 @@
 # Dako Albeik
 ### Software Developer
 ## Skills
-1. JavaScript
-2. HTML/CSS
-3. React.js
-4. Node.js
-5. MySQL
-6. Python
+&#10687; JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	&#10687; HTML/CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	&#10687; React.js
+
+&#10687; Node.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	&#10687; MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; &#10687; Python
 ## Education
 Senior student at the UA Little Rock majoring in computer science.
 * 4.00 Student

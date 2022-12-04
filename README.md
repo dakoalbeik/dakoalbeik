@@ -6,7 +6,7 @@
 &#10687; Node.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	&#10687; MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&thinsp;&thinsp;&thinsp; &#10687; Python
 ## Education
 Senior student at the UA Little Rock majoring in computer science.
-* 4.00 Student
+* 4.00 GPA
 * Minor in mathematics
 * Graduates in December of 2023
 ## Experience

@@ -1,5 +1,4 @@
-# Dako Albeik
-### Software Developer
+# Software Developer
 ## Skills
 &#10687; JavaScript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	&#10687; HTML/CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	&#10687; React.js
 
